@@ -1,0 +1,172 @@
+* {
+  color: #f2f2f2;
+}
+/* navbar */
+.navbar {
+  background-color: #1c1c1c;
+}
+.navbar-links a {
+  color: #f2f2f2;
+}
+/* index */
+.main-grid {
+  background-color: #111;
+}
+/* upload profile image */
+.upload-profile-box {
+  background-color: #1c1c1c;
+}
+.profile-field {
+  border-color: #444;
+}
+.profile-field i {
+  color: #777;
+}
+.s-btn, .a-btn, .a-btn-2 {
+  background-color: #055daa;
+  color: #f2f2f2;
+}
+.s-btn:hover, .a-btn:hover, .a-btn-2:hover {
+  background-color: #044daa;
+}
+/* col 1 - live stream */
+.player {
+  background-color: #222;
+}
+/* col 1 - live chat */
+.row-profile {
+  background-color: #222;
+}
+.option-btn {
+  background-color: #1c1c1c;
+}
+.option-btn:hover {
+  background-color: #222;
+}
+.row-chat {
+  background-color: #1c1c1c;
+  border-color: #444;
+}
+.message {
+  background-color: #2c2c2c;
+}
+.message.from-me {
+  background-color: #055daa;
+}
+.message-time {
+  color: #bbb;
+}
+.row-message {
+  background-color: #222;
+}
+.msg-form {
+  background-color: #222;
+  border-color: #444;
+}
+.msg-form input[type="text"] {
+  background-color: #222;
+}
+.msg-file-label i:hover,
+.msg-btn i:hover {
+  color: #bbb;
+}
+.upload-form {
+  background-color: #1c1c1c;
+  border-color: #444;
+}
+/* login page */
+.center-box {
+  background-color: #111;
+}
+.account-box {
+  background-color: #1c1c1c;
+}
+.form-field {
+  background-color: #222;
+  border-color: #444;
+}
+.form-field i {
+  border-color: #444;
+}
+.form-field input {
+  background-color: #222;
+}
+.info-link:hover {
+  color: #055daa;
+}
+/* file page */
+.file-grid {
+  background-color: #111;
+}
+.file-error-box {
+  background-color: #111;
+}
+.error {
+  background-color: rgb(67, 12, 17);
+  border-color: rgb(104, 18, 27);
+}
+.error span {
+  color: rgb(225, 134, 143);
+}
+.pagination a {
+  background-color: #222;
+}
+.pagination a:hover {
+  background-color: #1c1c1c;
+}
+.pagination .current-page {
+  background-color: #055daa;
+}
+.pagination .current-page:hover {
+  background-color: #044daa;
+}
+/* archive page */
+.archive-grid {
+  background-color: #111;
+}
+.search-bar {
+  background-color: #222;
+  border-color: #444;
+}
+label, .stats {
+  color: #eee;
+}
+th {
+  background-color: #1c1c1c;
+}
+th, td {
+  border-color: #444;
+  color: #eee;
+}
+tr:nth-child(odd) {
+  background-color: #1c1c1c;
+}
+tr:hover {
+  background-color: #444;
+}
+/* manage page */
+.mng-grid {
+  background-color: #111;
+}
+.table-actions a:hover i {
+  color: #044daa;
+}
+.table-actions i {
+  font-size: 1.2rem;
+  margin: 0 .5rem;
+  color: #055daa;
+}
+/* crud page */
+.crud-grid {
+  background-color: #111;
+}
+.entry-field, #media-cat {
+  background-color: #222;
+  border-color: #444;
+}
+.entry-disabled {
+  background-color: #111;
+}
+.crud-link, .crud-link i {
+  color: #055daa;
+}

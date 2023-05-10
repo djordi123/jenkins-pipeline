@@ -1,0 +1,16 @@
+@media only screen and (min-width: 2160px) {
+  /* index */
+  .main-grid {
+    padding-top: 2rem;
+    grid-template-columns: 80% 20%;
+  }
+  /* col 2 - chat */
+  .col-chat {
+    grid-template-rows: 6.5% 87% 6.5%;
+    margin-bottom: 4rem;
+  }
+  /* login page */
+  .center-box {
+    padding: 10rem;
+  }
+}
